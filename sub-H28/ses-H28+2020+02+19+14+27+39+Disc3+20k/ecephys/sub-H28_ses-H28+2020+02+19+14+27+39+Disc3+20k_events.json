@@ -1,0 +1,25 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "trial_type"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial"
+        }
+    },
+    "trials": {
+        "Description": "experimental trials generated from /nadata/snlkt/data/hao/Neurotensin/ephys/recordings/forLaurel/H28_2020-02-19_14-27-39_Disc3_20k/0028_20200221_20k_events.mat"
+    }
+}
