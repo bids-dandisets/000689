@@ -1,5 +1,5 @@
-session_id
-ses-FearLearning+earlyAcq+Mouse5
-ses-FearLearning+lateAcq+Mouse5
-ses-RewardLearning+earlyAcq+Mouse5
-ses-RewardLearning+lateAcq+Mouse5
+session_id	original_session_id
+ses-FearLearning+earlyAcq+Mouse5	ses-FearLearning_earlyAcq_Mouse5
+ses-FearLearning+lateAcq+Mouse5	ses-FearLearning_lateAcq_Mouse5
+ses-RewardLearning+earlyAcq+Mouse5	ses-RewardLearning_earlyAcq_Mouse5
+ses-RewardLearning+lateAcq+Mouse5	ses-RewardLearning_lateAcq_Mouse5

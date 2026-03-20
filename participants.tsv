@@ -1,37 +1,37 @@
-participant_id	species	sex	strain
-sub-H01	Mus musculus	M	C57BL/6J
-sub-H02	Mus musculus	M	C57BL/6J
-sub-H07	Mus musculus	M	C57BL/6J
-sub-H08	Mus musculus	M	C57BL/6J
-sub-H09	Mus musculus	M	C57BL/6J
-sub-H10	Mus musculus	M	C57BL/6J
-sub-H11	Mus musculus	M	C57BL/6J
-sub-H12	Mus musculus	M	C57BL/6J
-sub-H13	Mus musculus	M	C57BL/6J
-sub-H14	Mus musculus	M	C57BL/6J
-sub-H17	Mus musculus	M	C57BL/6J
-sub-H19	Mus musculus	M	C57BL/6J
-sub-H22	Mus musculus	M	C57BL/6J
-sub-H23	Mus musculus	M	C57BL/6J
-sub-H24	Mus musculus	M	C57BL/6J
-sub-H25	Mus musculus	M	C57BL/6J
-sub-H27	Mus musculus	M	C57BL/6J
-sub-H28	Mus musculus	M	C57BL/6J
-sub-H29	Mus musculus	M	C57BL/6J
-sub-H31	Mus musculus	M	C57BL/6J
-sub-H32	Mus musculus	M	C57BL/6J
-sub-H33	Mus musculus	M	C57BL/6J
-sub-H34	Mus musculus	M	C57BL/6J
-sub-H35	Mus musculus	M	C57BL/6J
-sub-H36	Mus musculus	M	C57BL/6J
-sub-H37	Mus musculus	M	C57BL/6J
-sub-H38	Mus musculus	M	C57BL/6J
-sub-H39	Mus musculus	M	C57BL/6J
-sub-H40	Mus musculus	M	C57BL/6J
-sub-H41	Mus musculus	M	C57BL/6J
-sub-H42	Mus musculus	M	C57BL/6J
-sub-M+0	Mus musculus	M	C57BL/6J
-sub-M+1	Mus musculus	M	C57BL/6J
-sub-M+3	Mus musculus	M	C57BL/6J
-sub-M+4	Mus musculus	M	C57BL/6J
-sub-M+5	Mus musculus	M	C57BL/6J
+participant_id	original_participant_id	species	sex	strain
+sub-H01	sub-H01	Mus musculus	M	C57BL/6J
+sub-H02	sub-H02	Mus musculus	M	C57BL/6J
+sub-H07	sub-H07	Mus musculus	M	C57BL/6J
+sub-H08	sub-H08	Mus musculus	M	C57BL/6J
+sub-H09	sub-H09	Mus musculus	M	C57BL/6J
+sub-H10	sub-H10	Mus musculus	M	C57BL/6J
+sub-H11	sub-H11	Mus musculus	M	C57BL/6J
+sub-H12	sub-H12	Mus musculus	M	C57BL/6J
+sub-H13	sub-H13	Mus musculus	M	C57BL/6J
+sub-H14	sub-H14	Mus musculus	M	C57BL/6J
+sub-H17	sub-H17	Mus musculus	M	C57BL/6J
+sub-H19	sub-H19	Mus musculus	M	C57BL/6J
+sub-H22	sub-H22	Mus musculus	M	C57BL/6J
+sub-H23	sub-H23	Mus musculus	M	C57BL/6J
+sub-H24	sub-H24	Mus musculus	M	C57BL/6J
+sub-H25	sub-H25	Mus musculus	M	C57BL/6J
+sub-H27	sub-H27	Mus musculus	M	C57BL/6J
+sub-H28	sub-H28	Mus musculus	M	C57BL/6J
+sub-H29	sub-H29	Mus musculus	M	C57BL/6J
+sub-H31	sub-H31	Mus musculus	M	C57BL/6J
+sub-H32	sub-H32	Mus musculus	M	C57BL/6J
+sub-H33	sub-H33	Mus musculus	M	C57BL/6J
+sub-H34	sub-H34	Mus musculus	M	C57BL/6J
+sub-H35	sub-H35	Mus musculus	M	C57BL/6J
+sub-H36	sub-H36	Mus musculus	M	C57BL/6J
+sub-H37	sub-H37	Mus musculus	M	C57BL/6J
+sub-H38	sub-H38	Mus musculus	M	C57BL/6J
+sub-H39	sub-H39	Mus musculus	M	C57BL/6J
+sub-H40	sub-H40	Mus musculus	M	C57BL/6J
+sub-H41	sub-H41	Mus musculus	M	C57BL/6J
+sub-H42	sub-H42	Mus musculus	M	C57BL/6J
+sub-M+0	sub-M-0	Mus musculus	M	C57BL/6J
+sub-M+1	sub-M-1	Mus musculus	M	C57BL/6J
+sub-M+3	sub-M-3	Mus musculus	M	C57BL/6J
+sub-M+4	sub-M-4	Mus musculus	M	C57BL/6J
+sub-M+5	sub-M-5	Mus musculus	M	C57BL/6J
